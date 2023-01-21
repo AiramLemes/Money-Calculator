@@ -4,7 +4,6 @@ import Model.Currency;
 import Model.CurrencySet;
 import Model.ExchangeRateSet;
 import java.text.NumberFormat;
-import java.util.ArrayList;
 
 
 /**

@@ -43,7 +43,4 @@ public class ExchangeRateSet {
         return 0;
     }
 
-    public ExchangeRate[] ExchangeRate() {
-        return exchangeRates.toArray(new ExchangeRate[exchangeRates.size()]);
-    }
 }

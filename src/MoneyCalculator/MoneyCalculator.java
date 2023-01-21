@@ -7,7 +7,7 @@ import View.MoneyCalculatorApp;
 import java.io.IOException;
 import java.text.ParseException;
 
-public class MoneyCalculator_v20210922 {
+public class MoneyCalculator {
 
     public static void main(String[] args) throws IOException, ParseException {
         
